@@ -1,4 +1,4 @@
-# JARVIS PI Trading Bot: Setup and Usage Guide
+# JARVIS PI Trading Bot: Setup and Usage Guide - Currently supports only MEXC and OKX
 
 ## Overview
 
